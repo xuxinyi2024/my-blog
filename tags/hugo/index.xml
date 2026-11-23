@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on My Personal Blog</title>
+    <link>http://localhost:1313/mu-blog/tags/hugo/</link>
+    <description>Recent content in Hugo on My Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mu-blog/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Blog Deployment</title>
+      <link>http://localhost:1313/mu-blog/posts/experiment-3/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mu-blog/posts/experiment-3/</guid>
+      <description>&lt;p&gt;I built a personal blog using Hugo and PaperMod theme. This is a great practice for Linux system administration.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
